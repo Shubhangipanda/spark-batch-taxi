@@ -23,4 +23,4 @@
 | **improvement_surcharge** | $0.30 per trip improvement fee. |
 | **total_amount** | Total cost = fare + extras + tax + tip + tolls. |
 | **congestion_surcharge** | Congestion fee for trips in Manhattan zones. |
->>>>>>> 028eecb35fe636b0f38b4076c22e07b2e945c13c
+
