@@ -24,3 +24,12 @@
 | **total_amount** | Total cost = fare + extras + tax + tip + tolls. |
 | **congestion_surcharge** | Congestion fee for trips in Manhattan zones. |
 
+## Key Insights from NYC Taxi Data (July 2025)
+
+- 🚕 Most trips are **short (under 3 miles)** and clustered in central Manhattan.  
+- ⏰ Peak activity occurs between **6 PM – 9 PM**, with another smaller bump in mornings.  
+- ⏳ Average trip durations stay between **10–20 minutes**, except late nights which are longer.  
+- 💵 Tips form a **significant portion of total revenue**, especially for evening and longer rides.  
+- 📊 Cleaned dataset saved in **Parquet format** for efficient use in future ML & streaming projects.  
+
+
